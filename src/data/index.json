@@ -1,0 +1,81 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I am Dinesh, a proficient web developer, has recently completed his journey in web development, showcasing a blend of creativity and technical prowess in his projects. With a keen eye for design aesthetics and a strong command over various programming languages and frameworks, I bring websites to life with seamless functionality and engaging user experiences. My dedication to mastering the latest technologies ensures that I stay ahead in the dynamic world of web development, continuously delivering innovative solutions to meet client needs."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I am experienced in Java Spring Boot for backend development, along with MySQL for database management. With Java Spring Boot, I have built robust and scalable backend applications, leveraging its powerful features and extensive ecosystem. My expertise in MySQL includes database design, optimization, and management, ensuring efficient data storage and retrieval for applications. I have a strong understanding of RESTful APIs, microservices architecture, and server-side development principles, enabling me to create reliable and high-performing backend systems."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I am Dinesh, a talented UI/UX developer who excels in crafting captivating digital experiences. Armed with a deep understanding of user behavior and design principles, I have honed my skills to seamlessly blend aesthetics with functionality. With a keen eye for detail and a passion for creating intuitive interfaces, I transform complex concepts into user-friendly designs. My dedication to staying updated with the latest trends and technologies ensures that my designs not only meet but exceed user expectations. My commitment to enhancing user satisfaction through thoughtful design choices makes me an invaluable asset to any project."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Software Developer ",
+      "description": "I am Dinesh, a dedicated Java developer with six months of hands-on experience in building robust and scalable applications. Throughout my journey, I have delved into the intricacies of Java programming, mastering its core concepts and leveraging advanced frameworks to deliver efficient solutions. With a keen eye for detail and a passion for clean, maintainable code, I thrive in collaborative environments, where I contribute my expertise to solve complex problems and drive innovation. My commitment to continuous learning and staying updated with the latest industry trends positions me as a valuable asset to any development team. My enthusiasm for Java development combined with my analytical mindset makes me adept at tackling challenges and delivering high-quality software solutions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Learning Website",
+      "description": "Welcome to our eLearning platform, your gateway to a world of knowledge and skill development at your fingertips. Our website is designed to provide you with a seamless and interactive learning experience, Our platform hosts content created by experts and educators, ensuring that you receive high-quality instruction and valuable insights that are relevant to your learning objectives.  Whether you're a student looking to supplement your traditional education, a professional seeking to enhance your skills, or an individual passionate about lifelong learning, our eLearning platform has something for everyone. Join our community of learners today and embark on a journey of discovery, growth, and achievement. Start your learning adventure now!",
+      "link": "https://coderdineshdk.github.io/Learning-Platform/",
+      "link_text": "View In Github"
+    }
+    ,
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Shopping",
+      "description": "EC-Shopping, short for Electronic Commerce Shopping, refers to the process of buying and selling goods or services over the internet. It involves online transactions between businesses and consumers, facilitated through electronic platforms such as websites or mobile apps. EC-Shopping platforms typically offer a wide range of products from various sellers, allowing shoppers to browse, compare prices, and make purchases conveniently from the comfort of their own homes. These platforms often provide features such as secure payment gateways, customer reviews, product recommendations, and order tracking to enhance the shopping experience. EC-Shopping has revolutionized the retail industry, offering unparalleled convenience and access to a global marketplace for both buyers and sellers alike.",
+      "link": "https://coderdineshdk.github.io/E-commerence-Website-DK/",
+      "link_text":"View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Movie Entertainment ",
+      "description": "Movie Entertainment is a broad term used to describe various forms of visual media designed to entertain audiences. It encompasses a wide range of genres, including action, drama, comedy, horror, science fiction, and more. Movies are typically produced for theatrical release, home viewing, or streaming platforms. They often feature storytelling through a combination of acting, dialogue, cinematography, special effects, and music. Movie entertainment can provide audiences with escapism, emotional experiences, thought-provoking narratives, or simply pure enjoyment. From blockbuster franchises to independent films, there's a vast array of options to suit every taste and preference in the world of movie entertainment.",
+      "link": "https://coderdineshdk.github.io/Movie-ott/",
+      "link_text":"View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
